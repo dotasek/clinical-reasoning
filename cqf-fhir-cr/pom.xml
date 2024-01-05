@@ -37,6 +37,12 @@
           <version>3.2.2</version>
       </dependency>
     <!-- test dependencies-->
+      <dependency>
+          <groupId>ca.uhn.hapi.fhir</groupId>
+          <artifactId>org.hl7.fhir.utilities</artifactId>
+          <version>${fhir-core.version}</version>
+      </dependency>
+
     <dependency>
       <groupId>org.opencds.cqf.fhir</groupId>
       <artifactId>cqf-fhir-jackson</artifactId>

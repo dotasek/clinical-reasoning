@@ -102,12 +102,6 @@
                 <scope>import</scope>
             </dependency>
 
-            <dependency>
-                <groupId>ca.uhn.hapi.fhir</groupId>
-                <artifactId>hapi-fhir-caching-caffeine</artifactId>
-                <version>${hapi.version}</version>
-            </dependency>
-
             <!--UCUM-->
             <dependency>
                 <groupId>org.fhir</groupId>
