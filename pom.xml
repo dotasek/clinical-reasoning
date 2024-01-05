@@ -23,7 +23,7 @@
         <jmh.version>1.36</jmh.version>
         <spring.version>5.3.23</spring.version>
         <fhir-core.version>6.2.6.1-SNAPSHOT</fhir-core.version>
-        <hapi.version>6.11.7-SNAPSHOT</hapi.version>
+        <hapi.version>6.11.8-SNAPSHOT</hapi.version>
         <picocli.version>4.6.1</picocli.version>
         <guava.version>32.1.2-jre</guava.version>
     </properties>
