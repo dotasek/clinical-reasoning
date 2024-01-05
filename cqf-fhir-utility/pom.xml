@@ -65,6 +65,10 @@
       <groupId>ca.uhn.hapi.fhir</groupId>
       <artifactId>hapi-fhir-validation-resources-r5</artifactId>
     </dependency>
+      <dependency>
+          <groupId>ca.uhn.hapi.fhir</groupId>
+          <artifactId>hapi-fhir-caching-caffeine</artifactId>
+      </dependency>
     <dependency>
       <groupId>ca.uhn.hapi.fhir</groupId>
       <artifactId>org.hl7.fhir.r5</artifactId>
