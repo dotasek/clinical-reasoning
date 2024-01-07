@@ -31,11 +31,6 @@
       <artifactId>cqf-fhir-utility</artifactId>
       <version>3.0.0-PRE15-SNAPSHOT</version>
     </dependency>
-      <dependency>
-          <groupId>commons-collections</groupId>
-          <artifactId>commons-collections</artifactId>
-          <version>3.2.2</version>
-      </dependency>
     <!-- test dependencies-->
       <dependency>
           <groupId>ca.uhn.hapi.fhir</groupId>
